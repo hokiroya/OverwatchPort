@@ -1,5 +1,0 @@
-Wysokoœæ piêtra 3.6
-Szerokosc sciany 8
-Szerokoœæ chodnika 3
-Szerokosc waskiej drogi 5
-Szerokosc szerokiej drogi 10
